@@ -40,7 +40,7 @@ Because TensorFlow is bullshit......
    python LeNet-5_reload.py
    ```
 
-   ## Acknowlegment
+## Acknowlegment
 
    ![1](https://github.com/Ironteen/pytorch_learning/blob/master/img/1.jpg)
 
